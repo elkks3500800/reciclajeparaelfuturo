@@ -1,6 +1,6 @@
 ---
 type: Page
-title: Bienvenidos
+title: hola
 sections:
   - type: HeroSection
     title: An Empty Page
