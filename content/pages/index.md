@@ -15,7 +15,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: tips para reciclar
         image:
           type: Image
           url: /images/descarga.png
