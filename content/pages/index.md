@@ -15,21 +15,6 @@ sections:
         text: "```\nReserva un sitio en casa para el reciclaje. ...\n```\n\n1.  Separa bien los envases de la basura orgánica. ...\n\n2.  Recicla\_cada material en el lugar que corresponde. ...\n\n3.  Productos especiales en lugares especiales. ...\n\n4.  Reutiliza las bolsas de plástico o uso bolsas de tela. ...\n\n5.  Hazte con una compostera.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\n"
         actions: []
       - type: Card
-        title: Second Card Title
-        image:
-          type: Image
-          url: /images/mui-5.svg
-          altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        actions:
-          - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
-      - type: Card
         title: Third Card Title
         image:
           type: Image
