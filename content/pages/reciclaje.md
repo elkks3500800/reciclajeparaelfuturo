@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/descarga.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Title
