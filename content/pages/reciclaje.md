@@ -3,7 +3,7 @@ type: Page
 title: Home
 sections:
   - type: HeroSection
-    title: This is a Big Hero Headline
+    title: El reciclaje
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
