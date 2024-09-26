@@ -29,6 +29,6 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Gracias por ver
-    subtitle: The section subtitle
+    subtitle: Chao
     items: []
 ---
