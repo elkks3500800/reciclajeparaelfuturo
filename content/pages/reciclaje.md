@@ -28,7 +28,7 @@ sections:
       url: /images/descarga.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Title
+    title: Gracias por ver
     subtitle: The section subtitle
     items: []
 ---
