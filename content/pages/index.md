@@ -5,10 +5,7 @@ sections:
   - type: HeroSection
     title: Bienvenidos
     subtitle: Reciclar Ayuda Al Futuro
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: "Reciclar conlleva\_ahorrar materias primas, energía, agua y reducir las emisiones de gases de efecto invernadero. Y además, genera nuevos puestos de trabajo y tejido industrial. Sin duda, los beneficios de reciclar nuestros residuos son enormes en comparación con la acción tan sencilla y cotidiana que supone.This is the HeroSection component. You can visually edit this component & add more sections while developing locally. Learn more.\n"
     actions:
       - type: Button
         label: Start Building
